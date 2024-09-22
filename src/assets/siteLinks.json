@@ -13,5 +13,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "http://state.us.kg/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.cscn.work/"
   }
 ]
